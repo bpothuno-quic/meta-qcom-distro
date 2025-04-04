@@ -9,6 +9,7 @@ RDEPENDS:${PN}-support-utils = " \
     libinput \
     libinput-bin \
     procps \
+    networkmanager \
     "
 
 RDEPENDS:${PN}-filesystem-utils = " \
